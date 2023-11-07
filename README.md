@@ -42,8 +42,3 @@ Patricia Trees offer efficient performance characteristics:
 - O(m) time complexity for search operations, where m is the average length of words.
 - Efficient insertion and deletion operations.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the content for educational purposes while providing appropriate attribution.
-
-Happy coding and exploring the power of Patricia Trees for text search!
